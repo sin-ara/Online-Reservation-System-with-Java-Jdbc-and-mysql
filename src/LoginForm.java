@@ -32,6 +32,8 @@ if (jRadioButton1.isSelected()==true){
     cat = jRadioButton1.getText();
 }
 else if(jRadioButton2.isSelected()==true){
+	
+	
     cat = jRadioButton2.getText();
 }
         if(n<100){
